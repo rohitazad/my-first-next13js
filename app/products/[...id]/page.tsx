@@ -1,6 +1,6 @@
 
 
-export default function(props){
+export default function(props:any){
     console.log(props.params.id)
     return (
         <>

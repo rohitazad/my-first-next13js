@@ -15,7 +15,7 @@ export default function RootLayout({
         <link rel="icon" href="/favicon.ico" />
       </head>
       <body>
-        <h1>Learn coding with bhai</h1>
+        <h1 className='myhead'>Learn coding with bhai :- https://www.youtube.com/@azadMalikRohit</h1>
         <header>
           <NavBar />
         </header>

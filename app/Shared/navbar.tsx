@@ -9,6 +9,7 @@ const NavBar =()=>{
         {name:'Blog', path:'/blog'},
         {name:'Products', path:'/products'},
         {name:'Dashboard', path:'/dashboard'},
+        {name:'ecommerce', path:'/ecommerce'}
     ]
     return(
         <>
